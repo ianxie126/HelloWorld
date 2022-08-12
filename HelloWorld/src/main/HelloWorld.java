@@ -9,5 +9,11 @@ public class HelloWorld {
 	public void main() {
 		System.out.println("Hello World, I am Ian Xie.");
 	}
+	
+	//Add by Vince: 2022-08-12
+	@Test
+	public void test1() {
+		System.out.println("Hello World, I am Vince");
+	}
 }
 
